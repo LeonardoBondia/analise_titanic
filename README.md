@@ -54,6 +54,7 @@ Esse resultado sugere que o gênero foi um dos principais fatores associados à 
 **Descrição:**
 
 A análise indica que passageiros classificados como crianças (< 12 anos) apresentaram taxa de sobrevivência superior à dos adultos, esse resultado reforça o contexto histórico no qual a prioridade no processo de evacuação era direcionada a mulheres e crianças. Entretanto, é importante destacar que a idade não foi o único fator determinante, uma vez que aspectos como classe social também exerceram influência significativa nas chances de sobrevivência.
+
 ---
 
 ### 🔹 Sobrevivência por Classe

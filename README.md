@@ -49,7 +49,7 @@ Esse resultado sugere que o gênero foi um dos principais fatores associados à 
 
 ## 🔹 Sobrevivência Crianças x Adultos
 
-![Sobrevivência crianças x adultos](images/por_crianca.png)
+![Sobrevivência crianças x adultos](images/por_criancas.png)
 
 **Descrição:**
 
